@@ -1,0 +1,11 @@
+#topics > div > div.postDesc > a:nth-child(5)
+$("#topics > div > div.postDesc > a:nth-child(5)").attr("href")
+"https://i.cnblogs.com/EditPosts.aspx?postid=7954278"
+
+scrapy shell "http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_039_fdisk_gdisk_parted.html#!" --set="AJAXCRAWL_ENABLED"="True"
+
+http://www.cnblogs.com/mvc/blog/ViewCountCommentCout.aspx?postId=7954278
+
+http://www.cnblogs.com/mvc/blog/GetComments.aspx?postId=7954278&blogApp=zhaojiedi1992&pageIndex=0&anchorCommentId=0
+
+http://www.cnblogs.com/mvc/blog/signature.aspx?blogId=123056&blogApp=zhaojiedi1992
