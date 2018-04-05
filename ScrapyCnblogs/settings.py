@@ -98,3 +98,4 @@ ITEM_PIPELINES = {
 
 
 LOG_FILE='scrapy.log'
+DOWNLOAD_DELAY=1
